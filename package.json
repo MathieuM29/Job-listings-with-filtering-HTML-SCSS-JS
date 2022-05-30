@@ -1,0 +1,23 @@
+{
+  "name": "job-listings-with-filtering-html-scss-js",
+  "version": "1.0.0",
+  "description": "![Design preview for the Job listings with filtering coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuM29/Job-listings-with-filtering-HTML-SCSS-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuM29/Job-listings-with-filtering-HTML-SCSS-JS/issues"
+  },
+  "homepage": "https://github.com/MathieuM29/Job-listings-with-filtering-HTML-SCSS-JS#readme",
+  "dependencies": {
+    "sass": "^1.52.1",
+    "scss": "^0.2.4"
+  }
+}
